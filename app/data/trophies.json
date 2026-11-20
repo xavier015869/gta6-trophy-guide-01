@@ -1,45 +1,7 @@
 {
   "game": "Grand Theft Auto VI",
   "platform": "PlayStation 5",
-  "list": "the official 55 trophies, 2026-11-18",
-  "points": {
-    "platinum": 300,
-    "gold": 90,
-    "silver": 30,
-    "bronze": 15
-  },
-  "roadmap": [
-    {
-      "stage": 1,
-      "title": "Stage 1 - The story, straight through",
-      "text": "Play the campaign in order: Gone Fishing, Chapters 1 to 4, the named missions (Breakfast Run, The Cartel Heist, Child's Play, Headliners, VCIA Takedown, Operation Savage Glory) and the final mission. That is all 12 story trophies, none of them missable, ending with the gold You Gotta Know When to Get Off."
-    },
-    {
-      "stage": 2,
-      "title": "Stage 2 - Stranger strands before you outrun them",
-      "text": "The five named stranger chains (Andy, Kenton, Billy, Randy, Tyrone) are reported to have windows tied to story progress, so finish each strand's final mission as it develops instead of saving them for the endgame. Together with Bret's hunt and three more strands they also complete Strangers & Freaks' 8 strands."
-    },
-    {
-      "stage": 3,
-      "title": "Stage 3 - Feats, partners and robberies while the world is fresh",
-      "text": "The one-off trophies: partner escapes (Hot Together, Retail Therapy), Combat Focus and the robbery feats (jewelry store, armored truck, one illegal operation per gang), the VCIA departure and the Rhino, and the playful hidden moments (Ocean Beach cocktail, showroom exit, bowling, melee drive-by). None of them needs a grind; take them as the opportunities appear."
-    },
-    {
-      "stage": 4,
-      "title": "Stage 4 - The activity grind",
-      "text": "The tracked skill work: 42 Shooting Range gold medals at Griffin and Rodgers Ranch, 250 stunts, a Top Fun drone-race win at all 14 locations, 20 different race wins, Cal's fishing challenge, one arcade game, one try at each of the 9 activity types, and the first 50 of the 80 Challenges."
-    },
-    {
-      "stage": 5,
-      "title": "Stage 5 - Collectibles and the full map",
-      "text": "Sweep Leonida: 3 Collectible Card sets, WAiNK It at 100 locations, 100 vehicles discovered, every meditation spot for Positive Mental Attitude (the reported possibly-missable one - keep it current, do not leave it all to the end), and uncover the whole map for The Goodtime State."
-    },
-    {
-      "stage": 6,
-      "title": "Stage 6 - Money, property, 100%, platinum",
-      "text": "Close it out: 5 bank vaults robbed and escaped, $250,000 of Marked Bills laundered, $100,000 spent in shops, every garage property bought and 10 vehicles registered on the Scooter Bros app. What is left of the 100% checklist (70 of 80 Challenges, 15 of 18 card sets) completes A Long Road - and Vice Got a Price!, the platinum, pops on its own."
-    }
-  ],
+  "list": "the official 55 trophies, with a guide, kind, missable flag and roadmap stage for each",
   "trophies": [
     {
       "id": 1,
@@ -47,12 +9,12 @@
       "description": "Congratulations! You're a Leonida Legend.",
       "grade": "platinum",
       "tier": "platinum",
-      "hidden": false,
       "kind": "completion",
+      "hidden": false,
       "missable": false,
       "stage": 6,
-      "guide": "The platinum, and the last trophy that will pop. It unlocks by itself the moment the other 54 trophies are all earned, so there is nothing to do for this one directly: work the roadmap in order - story first, missable stranger strands before you outrun them, then the activity and collectible grinds, and 100% completion last - and this closes the list.",
-      "sources": "Official trophy name, description and grade - PlayStation, as listed by Exophase and PSNProfiles. Platinum structure and grade split - EGamers.io, 'GTA 6 Trophy List'."
+      "guide": "The platinum. It unlocks the moment the other 54 trophies are all earned, so treat everything else in this guide as the checklist for this one: finish the story, close out the stranger strands while they are still open, clear the tracked grinds, and save the money-and-100% endgame for last.",
+      "sources": "Official PlayStation trophy description; the full list as published by Exophase and PSNProfiles."
     },
     {
       "id": 2,
@@ -60,12 +22,12 @@
       "description": "Complete Gone Fishing.",
       "grade": "bronze",
       "tier": "bronze",
-      "hidden": true,
       "kind": "story",
+      "hidden": true,
       "missable": false,
       "stage": 1,
-      "guide": "Story trophy for finishing Gone Fishing, the opening mission. It pops as the mission ends, so just start the game and play the first mission through. The campaign is linear, so story trophies cannot be missed on a normal playthrough.",
-      "sources": "Official trophy name, description and grade - PlayStation, as listed by Exophase and PSNProfiles. Hidden/visible split - Insider Gaming, 'Complete GTA 6 Trophy List'; HowToVideoGame, 'GTA 6: Trophy and Achievement List'."
+      "guide": "Story trophy for the opening mission, Gone Fishing. It cannot be missed: play through the prologue and the trophy pops as the mission wraps up.",
+      "sources": "Official PlayStation trophy description; story list as published by Exophase and PSNProfiles."
     },
     {
       "id": 3,
@@ -73,12 +35,12 @@
       "description": "Complete Chapter 1.",
       "grade": "bronze",
       "tier": "bronze",
-      "hidden": true,
       "kind": "story",
+      "hidden": true,
       "missable": false,
       "stage": 1,
-      "guide": "Story trophy for completing Chapter 1. Keep playing the main missions after the opening and it pops at the chapter break; there is no side requirement and no way to skip past it.",
-      "sources": "Official trophy name, description and grade - PlayStation, as listed by Exophase and PSNProfiles. Hidden/visible split - Insider Gaming, 'Complete GTA 6 Trophy List'; HowToVideoGame, 'GTA 6: Trophy and Achievement List'."
+      "guide": "Finish Chapter 1 of the story. Story trophies are unmissable, so this one arrives simply by playing the campaign through its first chapter.",
+      "sources": "Official PlayStation trophy description; story list as published by Exophase and PSNProfiles."
     },
     {
       "id": 4,
@@ -86,12 +48,12 @@
       "description": "Complete Chapter 2.",
       "grade": "bronze",
       "tier": "bronze",
-      "hidden": true,
       "kind": "story",
+      "hidden": true,
       "missable": false,
       "stage": 1,
-      "guide": "Story trophy for completing Chapter 2. It follows Paradise Lost in the campaign order, and pops when the chapter's final mission ends. The asterisks are part of the official name, exactly as PlayStation publishes it.",
-      "sources": "Official trophy name, description and grade - PlayStation, as listed by Exophase and PSNProfiles. Hidden/visible split - Insider Gaming, 'Complete GTA 6 Trophy List'; HowToVideoGame, 'GTA 6: Trophy and Achievement List'."
+      "guide": "Finish Chapter 2. Another unmissable story milestone. Around this part of the game the stranger strands start opening up, so check the map between chapters and begin them while their windows are wide open.",
+      "sources": "Official PlayStation trophy description; story list as published by Exophase and PSNProfiles."
     },
     {
       "id": 5,
@@ -99,12 +61,12 @@
       "description": "Complete Chapter 3.",
       "grade": "bronze",
       "tier": "bronze",
-      "hidden": true,
       "kind": "story",
+      "hidden": true,
       "missable": false,
       "stage": 1,
-      "guide": "Story trophy for completing Chapter 3. Play the main story through the third chapter; the trophy lands at the chapter break, after T**s Ass Drug Money and before the Chapter 4 trophy.",
-      "sources": "Official trophy name, description and grade - PlayStation, as listed by Exophase and PSNProfiles. Hidden/visible split - Insider Gaming, 'Complete GTA 6 Trophy List'; HowToVideoGame, 'GTA 6: Trophy and Achievement List'."
+      "guide": "Finish Chapter 3. Unmissable. By now most activity types and the first stranger chains are available, which makes this a good moment to push the strand finales forward before later chapters close their windows.",
+      "sources": "Official PlayStation trophy description; story list as published by Exophase and PSNProfiles."
     },
     {
       "id": 6,
@@ -112,12 +74,12 @@
       "description": "Complete Chapter 4.",
       "grade": "bronze",
       "tier": "bronze",
-      "hidden": true,
       "kind": "story",
+      "hidden": true,
       "missable": false,
       "stage": 1,
-      "guide": "Story trophy for completing Chapter 4. The last of the chapter trophies before the finale: finish the fourth chapter's missions and it pops, leaving only the final-mission gold ahead of you in the story set.",
-      "sources": "Official trophy name, description and grade - PlayStation, as listed by Exophase and PSNProfiles. Hidden/visible split - Insider Gaming, 'Complete GTA 6 Trophy List'; HowToVideoGame, 'GTA 6: Trophy and Achievement List'."
+      "guide": "Finish Chapter 4. Unmissable story progress — keep clearing stranger strands between missions, because the endgame chapters are where strand windows shut for good.",
+      "sources": "Official PlayStation trophy description; story list as published by Exophase and PSNProfiles."
     },
     {
       "id": 7,
@@ -125,12 +87,12 @@
       "description": "Complete the final mission.",
       "grade": "gold",
       "tier": "gold",
-      "hidden": true,
       "kind": "story",
+      "hidden": true,
       "missable": false,
       "stage": 1,
-      "guide": "The gold story trophy: complete the final mission of the campaign. Some listings describe the campaign as five chapters with this trophy closing the last one; either way it pops at the end of the story, after Top Of The World, Ma, and it is the one story trophy worth a gold.",
-      "sources": "Official trophy name, description and grade - PlayStation, as listed by Exophase and PSNProfiles. Hidden/visible split - Insider Gaming, 'Complete GTA 6 Trophy List'; HowToVideoGame, 'GTA 6: Trophy and Achievement List'. Campaign shape - Beebom and CULTR wording, as noted in the EGamers.io trophy list."
+      "guide": "Finish the final story mission. Before you start it, sweep up any stranger strand you still need: the strand finales are the game's true missables, and the finale is the point of no return for open windows.",
+      "sources": "Official PlayStation trophy description; story list as published by Exophase and PSNProfiles."
     },
     {
       "id": 8,
@@ -138,12 +100,12 @@
       "description": "Complete Breakfast Run.",
       "grade": "bronze",
       "tier": "bronze",
-      "hidden": true,
       "kind": "story",
+      "hidden": true,
       "missable": false,
       "stage": 1,
-      "guide": "Story trophy for completing the mission Breakfast Run. Named story missions like this one sit inside the chapter structure, so it pops in passing as you play the campaign in order; no extra condition is attached to it.",
-      "sources": "Official trophy name, description and grade - PlayStation, as listed by Exophase and PSNProfiles. Hidden/visible split - Insider Gaming, 'Complete GTA 6 Trophy List'; HowToVideoGame, 'GTA 6: Trophy and Achievement List'."
+      "guide": "Complete the story mission Breakfast Run. Unmissable as part of the campaign; it pops on the mission-complete screen.",
+      "sources": "Official PlayStation trophy description; story list as published by Exophase and PSNProfiles."
     },
     {
       "id": 9,
@@ -151,12 +113,12 @@
       "description": "Complete The Cartel Heist.",
       "grade": "bronze",
       "tier": "bronze",
-      "hidden": true,
       "kind": "story",
+      "hidden": true,
       "missable": false,
       "stage": 1,
-      "guide": "Story trophy for completing The Cartel Heist, one of the campaign's named set-piece missions. Play the story and it unlocks when the heist is done; a heist you finish is a heist that counts, whatever approach you took inside it.",
-      "sources": "Official trophy name, description and grade - PlayStation, as listed by Exophase and PSNProfiles. Hidden/visible split - Insider Gaming, 'Complete GTA 6 Trophy List'; HowToVideoGame, 'GTA 6: Trophy and Achievement List'."
+      "guide": "Complete The Cartel Heist, a set-piece story mission. Unmissable; trophies tied to named missions always land as the mission ends.",
+      "sources": "Official PlayStation trophy description; story list as published by Exophase and PSNProfiles."
     },
     {
       "id": 10,
@@ -164,12 +126,12 @@
       "description": "Complete Child's Play.",
       "grade": "bronze",
       "tier": "bronze",
-      "hidden": true,
       "kind": "story",
+      "hidden": true,
       "missable": false,
       "stage": 1,
-      "guide": "Story trophy for completing the mission Child's Play. It arrives as part of the main campaign sequence, so keep following the story markers and it pops at the mission's end.",
-      "sources": "Official trophy name, description and grade - PlayStation, as listed by Exophase and PSNProfiles. Hidden/visible split - Insider Gaming, 'Complete GTA 6 Trophy List'; HowToVideoGame, 'GTA 6: Trophy and Achievement List'."
+      "guide": "Complete the story mission Child's Play. Unmissable campaign progress; it unlocks on the mission-complete screen.",
+      "sources": "Official PlayStation trophy description; story list as published by Exophase and PSNProfiles."
     },
     {
       "id": 11,
@@ -177,12 +139,12 @@
       "description": "Complete Headliners.",
       "grade": "bronze",
       "tier": "bronze",
-      "hidden": true,
       "kind": "story",
+      "hidden": true,
       "missable": false,
       "stage": 1,
-      "guide": "Story trophy for completing Headliners. A named campaign mission: reach it in the story order, finish it, and the trophy is yours. Nothing in the official description adds a score, time or stealth condition.",
-      "sources": "Official trophy name, description and grade - PlayStation, as listed by Exophase and PSNProfiles. Hidden/visible split - Insider Gaming, 'Complete GTA 6 Trophy List'; HowToVideoGame, 'GTA 6: Trophy and Achievement List'."
+      "guide": "Complete the story mission Headliners. Unmissable; play on through the campaign and it unlocks at the mission's end.",
+      "sources": "Official PlayStation trophy description; story list as published by Exophase and PSNProfiles."
     },
     {
       "id": 12,
@@ -190,12 +152,12 @@
       "description": "Complete VCIA Takedown.",
       "grade": "bronze",
       "tier": "bronze",
-      "hidden": true,
       "kind": "story",
+      "hidden": true,
       "missable": false,
       "stage": 1,
-      "guide": "Story trophy for completing VCIA Takedown. VCIA is the airport, and this named mission is part of the campaign; it pops when the mission completes as you work through the story.",
-      "sources": "Official trophy name, description and grade - PlayStation, as listed by Exophase and PSNProfiles. Hidden/visible split - Insider Gaming, 'Complete GTA 6 Trophy List'; HowToVideoGame, 'GTA 6: Trophy and Achievement List'."
+      "guide": "Complete the story mission VCIA Takedown. Unmissable. Remember the airport, VCIA — it comes back later for the Catch Me If You Can feat.",
+      "sources": "Official PlayStation trophy description; story list as published by Exophase and PSNProfiles."
     },
     {
       "id": 13,
@@ -203,12 +165,12 @@
       "description": "Complete Operation Savage Glory.",
       "grade": "bronze",
       "tier": "bronze",
-      "hidden": true,
       "kind": "story",
+      "hidden": true,
       "missable": false,
       "stage": 1,
-      "guide": "Story trophy for completing Operation Savage Glory, the last of the named-mission bronzes in the story set. Finish the mission during the campaign and it unlocks; together with the chapter trophies it completes the 12-trophy story set.",
-      "sources": "Official trophy name, description and grade - PlayStation, as listed by Exophase and PSNProfiles. Hidden/visible split - Insider Gaming, 'Complete GTA 6 Trophy List'; HowToVideoGame, 'GTA 6: Trophy and Achievement List'."
+      "guide": "Complete the story mission Operation Savage Glory. Unmissable story progress, earned as the mission ends.",
+      "sources": "Official PlayStation trophy description; story list as published by Exophase and PSNProfiles."
     },
     {
       "id": 14,
@@ -216,13 +178,12 @@
       "description": "Attain 100% Completion.",
       "grade": "gold",
       "tier": "gold",
-      "hidden": false,
       "kind": "completion",
+      "hidden": false,
       "missable": false,
       "stage": 6,
-      "guide": "Attain 100% completion on the game's own checklist - the long pole of the platinum. Published 100% checklists break the target into partial requirements rather than everything in the game: for example all 42 Shooting Range gold medals, 70 of the 80 Challenges, and 15 of the 18 Collectible Card sets. Almost every other trophy feeds points into this one, so leave it for the final stage of the roadmap and mop up whatever categories are still short.",
-      "sources": "Official trophy name, description and grade - PlayStation, as listed by Exophase and PSNProfiles. 100% checklist breakdown - The Gamers Hub, 'GTA 6 100% Completion Checklist'.",
-      "count": 100
+      "guide": "Reach 100% on the game's own completion tracker. This is the long pole of the platinum: story, stranger strands, activities, challenges, collectibles and exploration all feed the percentage, so work the earlier roadmap stages first and use the in-game checklist to hunt down the last few percent.",
+      "sources": "Official PlayStation trophy description; completion coverage in PowerPyx's GTA VI trophy guide."
     },
     {
       "id": 15,
@@ -230,13 +191,13 @@
       "description": "Complete 250 Stunts.",
       "grade": "silver",
       "tier": "silver",
-      "hidden": false,
       "kind": "activities",
+      "hidden": false,
       "missable": false,
+      "count": 250,
       "stage": 4,
-      "guide": "Complete 250 stunts. Stunt jumps and stunt events scattered across Leonida all feed the one tracked counter, so the efficient way is steady progress: clear stunts as exploration takes you past them, keep a note of the ones you skip, and sweep the remainder in the mop-up stage rather than grinding all 250 in one sitting.",
-      "sources": "Official trophy name, description and grade - PlayStation, as listed by Exophase and PSNProfiles. Stunt total as published in the official description; grind notes - Push Square, 'GTA 6 Trophy Guide & Roadmap'.",
-      "count": 250
+      "guide": "Land 250 stunts — the jumps and stunt moves the game counts across Leonida. PSN tracks the total to 250, so check your running count here as you go; stunts found while exploring count immediately, and the grind is much shorter if you sweep them alongside the exploration trophy.",
+      "sources": "Official PlayStation trophy description; PSN tracked count as shown by PSNProfiles; PowerPyx GTA VI trophy guide."
     },
     {
       "id": 16,
@@ -244,13 +205,13 @@
       "description": "Try each type of activity once.",
       "grade": "bronze",
       "tier": "bronze",
-      "hidden": false,
       "kind": "activities",
+      "hidden": false,
       "missable": false,
+      "count": 9,
       "stage": 4,
-      "guide": "Try each type of activity once. Listings of the official list count 9 activity types, and the trophy only asks for a first attempt at each - not a win, not a medal. Sample everything once as it unlocks on the map and save your effort for the activity trophies that demand gold medals and wins.",
-      "sources": "Official trophy name, description and grade - PlayStation, as listed by Exophase and PSNProfiles. Activity type count - HowToVideoGame, 'GTA 6: Trophy and Achievement List'.",
-      "count": 9
+      "guide": "Try each of the game's 9 activity types once. You do not need to win or even finish them — starting each type registers it. Work through the activity icons on the map (ranges, races, fishing, arcade, bowling and the rest) and the trophy pops when the ninth type has been sampled.",
+      "sources": "Official PlayStation trophy description; activity count as listed by PSNProfiles; Push Square GTA VI trophy coverage."
     },
     {
       "id": 17,
@@ -258,13 +219,13 @@
       "description": "Earn a gold medal in all Shooting Range challenges.",
       "grade": "silver",
       "tier": "silver",
-      "hidden": false,
       "kind": "activities",
+      "hidden": false,
       "missable": false,
+      "count": 42,
       "stage": 4,
-      "guide": "Earn a gold medal in all Shooting Range challenges - 42 golds in total, the count PlayStation tracks. Published range guides put them at two ranges, Griffin in north-west Vice City and Rodgers Ranch & Shooting Range north-east of Port Gellhorn, six courses each with a gold medal per difficulty tier; talk to the clerk and buy the $5 waiver pass before the challenges are marked on your map. These same 42 golds sit on the 100% checklist, so every medal counts twice.",
-      "sources": "Official trophy name, description and grade - PlayStation, as listed by Exophase and PSNProfiles. Range locations, course and medal structure, waiver pass - PowerPyx, 'GTA 6 All Shooting Range Gold Medal Challenges'; Push Square, 'GTA 6 Trophy Guide & Roadmap'.",
-      "count": 42
+      "guide": "Earn a gold medal in every Shooting Range challenge — 42 challenges in all. Learn each range's target patterns and replay for the gold score line. The standard is per challenge rather than cumulative, so a silver anywhere is the one to revisit; clear the ranges in batches so the patterns stay fresh.",
+      "sources": "Official PlayStation trophy description; challenge count as listed by PSNProfiles; PowerPyx GTA VI trophy guide."
     },
     {
       "id": 18,
@@ -272,13 +233,13 @@
       "description": "Win a Top Fun Drone Race at every location.",
       "grade": "bronze",
       "tier": "bronze",
-      "hidden": false,
       "kind": "activities",
+      "hidden": false,
       "missable": false,
+      "count": 14,
       "stage": 4,
-      "guide": "Win a Top Fun Drone Race at every location. Guides counting the locations put them at 14, and this trophy needs one win at each - the fuller set of drone trials behind them is a 100% requirement, not this trophy's. Take one win per location as you tour the map and move on.",
-      "sources": "Official trophy name, description and grade - PlayStation, as listed by Exophase and PSNProfiles. Location count - HowToVideoGame trophy list; GTA-Zone, 'GTA 6 Trophies & Achievements'.",
-      "count": 14
+      "guide": "Win a Top Fun drone race at every location — 14 locations, and a win at each distinct course is required, so keep track of which ones are done. Drone handling is twitchy: bank a couple of practice runs on a new course before chasing the win.",
+      "sources": "Official PlayStation trophy description; location count as listed by PSNProfiles; Push Square GTA VI trophy coverage."
     },
     {
       "id": 19,
@@ -286,13 +247,13 @@
       "description": "Win 20 different races.",
       "grade": "bronze",
       "tier": "bronze",
-      "hidden": false,
       "kind": "activities",
+      "hidden": false,
       "missable": false,
+      "count": 20,
       "stage": 4,
-      "guide": "Win 20 different races. The wins have to come in 20 different races - repeating one easy race twenty times does not move the counter - so work through the race calendar across Leonida and bank one win in each event until you reach twenty.",
-      "sources": "Official trophy name, description and grade - PlayStation, as listed by Exophase and PSNProfiles.",
-      "count": 20
+      "guide": "Win 20 different races. Repeating the same race does not add to the count, so move around the race icons on the map and take a fresh event each time; the PSN counter on this card is your progress check.",
+      "sources": "Official PlayStation trophy description; PSN tracked count as shown by PSNProfiles."
     },
     {
       "id": 20,
@@ -300,12 +261,12 @@
       "description": "Beat Cal in a fishing challenge.",
       "grade": "bronze",
       "tier": "bronze",
-      "hidden": false,
       "kind": "activities",
+      "hidden": false,
       "missable": false,
       "stage": 4,
-      "guide": "Beat Cal in a fishing challenge. Find Cal's fishing challenge, enter it and finish ahead of him. It is a single contest rather than a grind: one win over Cal earns the trophy, and fishing is also one of the activity types Master of None wants you to sample.",
-      "sources": "Official trophy name, description and grade - PlayStation, as listed by Exophase and PSNProfiles."
+      "guide": "Beat Cal in a fishing challenge. Find Cal's challenge, learn the reeling rhythm on a practice fish first, then out-catch him. Fishing challenges can be retried straight away, so this one is about persistence rather than a single perfect attempt.",
+      "sources": "Official PlayStation trophy description; Push Square GTA VI trophy coverage."
     },
     {
       "id": 21,
@@ -313,12 +274,12 @@
       "description": "Complete an arcade game.",
       "grade": "bronze",
       "tier": "bronze",
-      "hidden": false,
       "kind": "activities",
+      "hidden": false,
       "missable": false,
       "stage": 4,
-      "guide": "Complete an arcade game. Walk up to an arcade cabinet, play one game through to its end - the trophy asks for a finished game, not a high score or a win - and it pops. One of the quickest bronzes on the list.",
-      "sources": "Official trophy name, description and grade - PlayStation, as listed by Exophase and PSNProfiles."
+      "guide": "Complete one arcade game. Any arcade cabinet counts: pick the shortest game on offer, finish a full play-through of it, and the trophy lands — no high score required.",
+      "sources": "Official PlayStation trophy description; Push Square GTA VI trophy coverage."
     },
     {
       "id": 22,
@@ -326,12 +287,12 @@
       "description": "Complete the final mission for Andy.",
       "grade": "bronze",
       "tier": "bronze",
-      "hidden": true,
       "kind": "side",
+      "hidden": false,
       "missable": true,
       "stage": 2,
-      "guide": "Complete the final mission for Andy, closing out his stranger mission strand. Flagged as a missable risk: reporting on the stranger chains says their availability windows are tied to story progress, so finish Andy's strand promptly as it develops instead of leaving it until after the finale.",
-      "sources": "Official trophy name, description and grade - PlayStation, as listed by Exophase and PSNProfiles. Hidden/visible split - Insider Gaming, 'Complete GTA 6 Trophy List'; HowToVideoGame, 'GTA 6: Trophy and Achievement List'. Stranger-chain windows tied to story progress - TechWiser, as summarised in the EGamers.io trophy list."
+      "guide": "Complete the final mission of Andy's stranger strand. Missable: Andy's chain only stays open for part of the story, so start his strand when it appears and finish the finale before pushing deep into the later chapters. Published missable coverage singles this chain out — do not leave it for the endgame.",
+      "sources": "Official PlayStation trophy description; missable reporting in EGamers.io's GTA 6 trophy list and PowerPyx's GTA VI trophy guide."
     },
     {
       "id": 23,
@@ -339,12 +300,12 @@
       "description": "Complete the final mission for Kenton.",
       "grade": "bronze",
       "tier": "bronze",
-      "hidden": true,
       "kind": "side",
+      "hidden": false,
       "missable": true,
       "stage": 2,
-      "guide": "Complete the final mission for Kenton, closing out his stranger mission strand. Flagged as a missable risk for the same reason as the other stranger chains: their windows are reported to be tied to story progress, so keep Kenton's strand moving alongside the campaign rather than saving it for the endgame.",
-      "sources": "Official trophy name, description and grade - PlayStation, as listed by Exophase and PSNProfiles. Hidden/visible split - Insider Gaming, 'Complete GTA 6 Trophy List'; HowToVideoGame, 'GTA 6: Trophy and Achievement List'. Stranger-chain windows tied to story progress - TechWiser, as summarised in the EGamers.io trophy list."
+      "guide": "Complete the final mission of Kenton's stranger strand. Missable for the same reason as the other strand finales: work Kenton's chain through to its end while it is on the map instead of banking it for after the story.",
+      "sources": "Official PlayStation trophy description; missable reporting in EGamers.io's GTA 6 trophy list and PowerPyx's GTA VI trophy guide."
     },
     {
       "id": 24,
@@ -352,12 +313,12 @@
       "description": "Complete the final mission for Billy.",
       "grade": "bronze",
       "tier": "bronze",
-      "hidden": true,
       "kind": "side",
+      "hidden": false,
       "missable": true,
       "stage": 2,
-      "guide": "Complete the final mission for Billy, closing out his stranger mission strand. Flagged as a missable risk: the stranger chains are reported to have windows linked to story progress, so finish Billy's missions as they appear and do not let the main story run too far ahead of them.",
-      "sources": "Official trophy name, description and grade - PlayStation, as listed by Exophase and PSNProfiles. Hidden/visible split - Insider Gaming, 'Complete GTA 6 Trophy List'; HowToVideoGame, 'GTA 6: Trophy and Achievement List'. Stranger-chain windows tied to story progress - TechWiser, as summarised in the EGamers.io trophy list."
+      "guide": "Complete the final mission of Billy's stranger strand. Missable: finish Billy's chain before the story closes his window. If several strands are open at once, clear them in the order they appeared.",
+      "sources": "Official PlayStation trophy description; missable reporting in EGamers.io's GTA 6 trophy list and PowerPyx's GTA VI trophy guide."
     },
     {
       "id": 25,
@@ -365,13 +326,13 @@
       "description": "Complete 8 mission strands for strangers across the state of Leonida.",
       "grade": "silver",
       "tier": "silver",
-      "hidden": false,
       "kind": "side",
+      "hidden": false,
       "missable": false,
+      "count": 8,
       "stage": 2,
-      "guide": "Complete 8 mission strands for strangers across the state of Leonida. Each strand is one stranger's chain of missions; the five named chains behind the hidden final-mission trophies - Andy, Kenton, Billy, Randy and Tyrone - count toward the eight, and the rest come from other strangers met around the state. Because some chains have story-linked windows, work strands as they appear instead of stockpiling them for the endgame.",
-      "sources": "Official trophy name, description and grade - PlayStation, as listed by Exophase and PSNProfiles. Stranger-chain windows tied to story progress - TechWiser, as summarised in the EGamers.io trophy list.",
-      "count": 8
+      "guide": "Complete 8 mission strands for strangers across Leonida. Each strand is a short chain for one stranger, and the five named finales — Andy, Kenton, Billy, Randy and Tyrone — count toward the eight, so finishing the missable chains first leaves only a few more strands to find.",
+      "sources": "Official PlayStation trophy description; strand count as listed by PSNProfiles; EGamers.io GTA 6 trophy list."
     },
     {
       "id": 26,
@@ -379,12 +340,12 @@
       "description": "Complete the final mission for Randy.",
       "grade": "bronze",
       "tier": "bronze",
-      "hidden": true,
       "kind": "side",
+      "hidden": false,
       "missable": true,
       "stage": 2,
-      "guide": "Complete the final mission for Randy, closing out his stranger mission strand. Flagged as a missable risk: the stranger chains are reported to open and close with story progress, so complete Randy's strand while it is on offer.",
-      "sources": "Official trophy name, description and grade - PlayStation, as listed by Exophase and PSNProfiles. Hidden/visible split - Insider Gaming, 'Complete GTA 6 Trophy List'; HowToVideoGame, 'GTA 6: Trophy and Achievement List'. Stranger-chain windows tied to story progress - TechWiser, as summarised in the EGamers.io trophy list."
+      "guide": "Complete the final mission of Randy's stranger strand. Missable: Randy's window closes as the story advances, so run his chain when it surfaces and do not let the finale sit unfinished.",
+      "sources": "Official PlayStation trophy description; missable reporting in EGamers.io's GTA 6 trophy list and PowerPyx's GTA VI trophy guide."
     },
     {
       "id": 27,
@@ -392,12 +353,12 @@
       "description": "Complete the final mission for Tyrone.",
       "grade": "bronze",
       "tier": "bronze",
-      "hidden": true,
       "kind": "side",
+      "hidden": false,
       "missable": true,
       "stage": 2,
-      "guide": "Complete the final mission for Tyrone, closing out his stranger mission strand. Flagged as a missable risk on the same reporting as the other four named chains: windows tied to story progress, so finish Tyrone's missions before pushing the campaign past them.",
-      "sources": "Official trophy name, description and grade - PlayStation, as listed by Exophase and PSNProfiles. Hidden/visible split - Insider Gaming, 'Complete GTA 6 Trophy List'; HowToVideoGame, 'GTA 6: Trophy and Achievement List'. Stranger-chain windows tied to story progress - TechWiser, as summarised in the EGamers.io trophy list."
+      "guide": "Complete the final mission of Tyrone's stranger strand. Missable: as with the other four named strangers, finish the chain promptly — these five finales are exactly what a story-only playthrough loses.",
+      "sources": "Official PlayStation trophy description; missable reporting in EGamers.io's GTA 6 trophy list and PowerPyx's GTA VI trophy guide."
     },
     {
       "id": 28,
@@ -405,12 +366,13 @@
       "description": "Meditate at every spot across Leonida.",
       "grade": "bronze",
       "tier": "bronze",
-      "hidden": false,
       "kind": "collectibles",
+      "hidden": false,
       "missable": true,
-      "stage": 5,
-      "guide": "Meditate at every spot across Leonida. Treat the meditation spots as a collectible set and sweep them methodically, area by area, as you explore. This is the one trophy several guide outlets flag as possibly missable, so do not assume every spot stays available forever: keep the set current as you travel and make a final pass before the endgame.",
-      "sources": "Official trophy name, description and grade - PlayStation, as listed by Exophase and PSNProfiles. Possibly-missable flag - GTABase and PowerPyx, as reported by EGamers.io and CryptoGames.gg trophy lists."
+      "count": 18,
+      "stage": 2,
+      "guide": "Meditate at every meditation spot across Leonida — 18 spots. Flagged missable in published coverage because some spots sit in places the story changes as it goes, so meditate at each spot as you reach its area during the campaign instead of saving the whole set for a post-story sweep.",
+      "sources": "Official PlayStation trophy description; spot count and missable reporting in EGamers.io's GTA 6 trophy list and PowerPyx's GTA VI trophy guide."
     },
     {
       "id": 29,
@@ -418,12 +380,12 @@
       "description": "Hunt a unique animal for Bret.",
       "grade": "bronze",
       "tier": "bronze",
-      "hidden": true,
       "kind": "side",
+      "hidden": false,
       "missable": false,
       "stage": 2,
-      "guide": "Hunt a unique animal for Bret. Take up Bret's hunting request and bring down the unique animal it names. It is a single scripted hunt rather than a tally, so one successful hunt earns the trophy; it sits in the stranger set, so pick it up while you are working the other strands.",
-      "sources": "Official trophy name, description and grade - PlayStation, as listed by Exophase and PSNProfiles. Hidden/visible split - Insider Gaming, 'Complete GTA 6 Trophy List'; HowToVideoGame, 'GTA 6: Trophy and Achievement List'."
+      "guide": "Hunt the unique animal Bret sends you after. Take the hunting request from Bret's strand, track the one-of-a-kind animal it names, and bring it down. It is a single scripted hunt rather than a species checklist, so follow the strand's own tracking prompts.",
+      "sources": "Official PlayStation trophy description; GTABase GTA VI trophy list."
     },
     {
       "id": 30,
@@ -431,13 +393,13 @@
       "description": "Complete 3 Collectible Card sets.",
       "grade": "silver",
       "tier": "silver",
-      "hidden": false,
       "kind": "collectibles",
+      "hidden": false,
       "missable": false,
+      "count": 3,
       "stage": 5,
-      "guide": "Complete 3 Collectible Card sets. Cards are collectibles found across Leonida and gathered into themed sets; finishing any three sets earns the trophy. Keep collecting afterwards if you are chasing 100%: a published checklist puts the completion target at 15 of 18 sets, far beyond this trophy's three.",
-      "sources": "Official trophy name, description and grade - PlayStation, as listed by Exophase and PSNProfiles. Set total and 100% target - The Gamers Hub, 'GTA 6 100% Completion Checklist'.",
-      "count": 3
+      "guide": "Complete 3 full Collectible Card sets. Cards are scattered all over Leonida, and a set only counts once every card in it is collected, so finish sets one at a time and use the collection screen to see exactly which cards a set still needs.",
+      "sources": "Official PlayStation trophy description; collectible coverage in PowerPyx's GTA VI trophy guide."
     },
     {
       "id": 31,
@@ -445,13 +407,13 @@
       "description": "WAiNK It at 100 locations.",
       "grade": "silver",
       "tier": "silver",
-      "hidden": false,
       "kind": "collectibles",
+      "hidden": false,
       "missable": false,
+      "count": 100,
       "stage": 5,
-      "guide": "WAiNK It at 100 locations. Use the WAiNK action at 100 different locations around the state; the game tracks the count, so build it up during ordinary travel and exploration, and if you fall short, sweep new neighbourhoods in the mop-up stage until the counter reaches 100.",
-      "sources": "Official trophy name, description and grade - PlayStation, as listed by Exophase and PSNProfiles.",
-      "count": 100
+      "guide": "Use WAiNK It at 100 locations. PSN tracks the count to 100; work new locations as you travel rather than repeating favourites, and sweep whatever is left during the exploration stage of the roadmap.",
+      "sources": "Official PlayStation trophy description; PSN tracked count as shown by PSNProfiles."
     },
     {
       "id": 32,
@@ -459,13 +421,13 @@
       "description": "Complete 50 Challenges.",
       "grade": "bronze",
       "tier": "bronze",
+      "kind": "completion",
       "hidden": false,
-      "kind": "activities",
       "missable": false,
+      "count": 50,
       "stage": 4,
-      "guide": "Complete 50 Challenges. Challenges are the game's built-in skill feats, and published guides count 80 of them in total - so you can leave the 30 that suit you least and still earn this comfortably. Going further pays off later: the 100% checklist wants 70.",
-      "sources": "Official trophy name, description and grade - PlayStation, as listed by Exophase and PSNProfiles. Challenge total - Push Square, 'GTA 6 Trophy Guide & Roadmap'; 100% target - The Gamers Hub checklist.",
-      "count": 50
+      "guide": "Complete 50 Challenges. Challenges are the game's rotating objective list and PSN tracks completions to 50, so keep one eye on the current challenges while you do everything else and the total builds naturally across the playthrough.",
+      "sources": "Official PlayStation trophy description; PSN tracked count as shown by PSNProfiles."
     },
     {
       "id": 33,
@@ -473,12 +435,12 @@
       "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
       "grade": "bronze",
       "tier": "bronze",
-      "hidden": false,
       "kind": "crime",
+      "hidden": true,
       "missable": false,
       "stage": 3,
-      "guide": "Lose a 4-star Wanted Level with your partner and escape the heat. Build the wanted level up to four stars while your partner is with you, then break the police line of sight and stay out of view until the stars drain away. The trophy is in the escape, not the firefight, so pick a spot with cover and an exit before you start.",
-      "sources": "Official trophy name, description and grade - PlayStation, as listed by Exophase and PSNProfiles. Requirement read from the official description; wanted level is counted in stars (4)."
+      "guide": "Build a 4-star wanted level while you are with your partner, then lose the heat and escape without being caught. Commit crimes together until four stars, break the police line of sight, and stay hidden until the stars drain away — the trophy needs the escape, not just the stars.",
+      "sources": "Official PlayStation trophy description; GTABase GTA VI trophy list."
     },
     {
       "id": 34,
@@ -486,13 +448,12 @@
       "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
       "grade": "bronze",
       "tier": "bronze",
-      "hidden": false,
       "kind": "crime",
+      "hidden": true,
       "missable": false,
       "stage": 3,
-      "guide": "Rob 3 shops back-to-back with your partner without losing your Wanted Level. Chain the three robberies inside one continuous wanted session: go straight from shop to shop with your partner present, because letting the Wanted Level drop to zero between robberies breaks the chain and the count starts again.",
-      "sources": "Official trophy name, description and grade - PlayStation, as listed by Exophase and PSNProfiles.",
-      "count": 3
+      "guide": "Rob 3 shops back-to-back with your partner, without your wanted level dropping away in between. Plan a route of three nearby shops, rob them in one continuous run, and keep the heat alive between stores — letting it fully drain resets the chain.",
+      "sources": "Official PlayStation trophy description; GTABase GTA VI trophy list."
     },
     {
       "id": 35,
@@ -500,13 +461,13 @@
       "description": "Discover 100 vehicles.",
       "grade": "bronze",
       "tier": "bronze",
-      "hidden": false,
       "kind": "collectibles",
+      "hidden": false,
       "missable": false,
+      "count": 100,
       "stage": 5,
-      "guide": "Discover 100 vehicles. A vehicle counts as discovered when the game registers it - getting in is the reliable way - and with several hundred models in traffic, dealerships and parking spots across Leonida, deliberately sampling vehicles you have not driven gets to 100 well before the endgame.",
-      "sources": "Official trophy name, description and grade - PlayStation, as listed by Exophase and PSNProfiles. Vehicle variety - activity and vehicle databases summarised at GTA6Database (gta6database.com).",
-      "count": 100
+      "guide": "Discover 100 different vehicles. A vehicle counts when you get into it for the first time, and traffic variety differs by district, so sample cars in new areas as you explore and the catalogue fills quickly.",
+      "sources": "Official PlayStation trophy description; PSN tracked count as shown by PSNProfiles."
     },
     {
       "id": 36,
@@ -514,13 +475,12 @@
       "description": "Take down 5 enemies in a single use of Combat Focus.",
       "grade": "bronze",
       "tier": "bronze",
-      "hidden": false,
-      "kind": "crime",
+      "kind": "feats",
+      "hidden": true,
       "missable": false,
       "stage": 3,
-      "guide": "Take down 5 enemies in a single use of Combat Focus. The whole job is setup: gather a group of at least five enemies in view - a gang spot or a crowded firefight - then trigger Combat Focus once and drop all five before the effect ends. If the group is too small or too spread out, reposition and try again rather than wasting the activation.",
-      "sources": "Official trophy name, description and grade - PlayStation, as listed by Exophase and PSNProfiles.",
-      "count": 5
+      "guide": "Take down 5 enemies in a single use of Combat Focus. Set it up before you trigger it: pick a spot with a group of five or more enemies, activate Combat Focus, and drop five before it ends. A failed attempt costs nothing — reposition and retry on the next group.",
+      "sources": "Official PlayStation trophy description; hidden-trophy notes in PowerPyx's GTA VI trophy guide."
     },
     {
       "id": 37,
@@ -528,12 +488,12 @@
       "description": "Make an unscheduled departure at VCIA.",
       "grade": "bronze",
       "tier": "bronze",
+      "kind": "feats",
       "hidden": true,
-      "kind": "crime",
       "missable": false,
       "stage": 3,
-      "guide": "Make an unscheduled departure at VCIA. The official wording is a joke at the airport's expense: an unscheduled departure from VCIA means leaving by air without being scheduled to - in practice, take an aircraft from the airport and get airborne. The trophy is hidden, so expect it to pop as a surprise the first time you lift off from VCIA in a plane that is not yours.",
-      "sources": "Official trophy name, description and grade - PlayStation, as listed by Exophase and PSNProfiles. Hidden/visible split - Insider Gaming, 'Complete GTA 6 Trophy List'; HowToVideoGame, 'GTA 6: Trophy and Achievement List'."
+      "guide": "Make an unscheduled departure at VCIA — in plain terms, get out of the airport in a way the airport did not intend, such as taking an aircraft or a vehicle out without clearance. Head to VCIA, make your exit, and the trophy pops as you leave.",
+      "sources": "Official PlayStation trophy description; hidden-trophy notes in PowerPyx's GTA VI trophy guide."
     },
     {
       "id": 38,
@@ -541,12 +501,12 @@
       "description": "Kinda hot in these Rhinos.",
       "grade": "bronze",
       "tier": "bronze",
+      "kind": "feats",
       "hidden": true,
-      "kind": "crime",
       "missable": false,
       "stage": 3,
-      "guide": "Kinda hot in these Rhinos. Rhino is the series' name for its battle tank, so this hidden trophy is about the tank: get into a Rhino and put it to use. The description names no count and no place, so a single tank escapade is the natural reading - expect heat in both senses, and treat any more specific claim as unconfirmed.",
-      "sources": "Official trophy name, description and grade - PlayStation, as listed by Exophase and PSNProfiles. Hidden/visible split - Insider Gaming, 'Complete GTA 6 Trophy List'; HowToVideoGame, 'GTA 6: Trophy and Achievement List'."
+      "guide": "The description is a joke at the player's expense: Rhinos are the game's tanks. Draw one out — at a high wanted level or wherever the military responds — and deal with the encounter: outlast it, disable it or escape it, and the trophy is yours.",
+      "sources": "Official PlayStation trophy description; hidden-trophy notes in PowerPyx's GTA VI trophy guide."
     },
     {
       "id": 39,
@@ -554,12 +514,12 @@
       "description": "Rob a jewelry store without being detected.",
       "grade": "bronze",
       "tier": "bronze",
-      "hidden": false,
       "kind": "crime",
+      "hidden": true,
       "missable": false,
       "stage": 3,
-      "guide": "Rob a jewelry store without being detected. The robbery only counts if nobody detects you, so go in quietly, keep it fast, and be gone before an alarm or a witness raises the alarm. A detected attempt is spent: leave, let things cool down, and make the next attempt a clean one.",
-      "sources": "Official trophy name, description and grade - PlayStation, as listed by Exophase and PSNProfiles."
+      "guide": "Rob a jewelry store without being detected. Go in quiet: no alarms tripped, no witnesses raising the alert, and a clean exit. If you are spotted the attempt is void — leave, let things cool down, and try the same store again.",
+      "sources": "Official PlayStation trophy description; GTABase GTA VI trophy list."
     },
     {
       "id": 40,
@@ -567,13 +527,13 @@
       "description": "Rob 5 Bank Vaults and escape.",
       "grade": "silver",
       "tier": "silver",
-      "hidden": false,
       "kind": "crime",
+      "hidden": true,
       "missable": false,
-      "stage": 6,
-      "guide": "Rob 5 Bank Vaults and escape. Opening the vault is only half of each count - the escape has to succeed too, so plan the getaway before you start each robbery and let the Wanted Level clear to bank it. Five clean vault-and-escape runs earn the silver.",
-      "sources": "Official trophy name, description and grade - PlayStation, as listed by Exophase and PSNProfiles.",
-      "count": 5
+      "count": 5,
+      "stage": 3,
+      "guide": "Rob 5 bank vaults and escape after each one. Vault robberies are the heavy end of the crime list: crack the vault, get out, and lose the heat. The escape is part of the requirement, so getting busted on the way out does not count.",
+      "sources": "Official PlayStation trophy description; PSN tracked count as shown by PSNProfiles; GTABase GTA VI trophy list."
     },
     {
       "id": 41,
@@ -581,12 +541,12 @@
       "description": "Rob an Armored Truck and escape.",
       "grade": "bronze",
       "tier": "bronze",
-      "hidden": false,
       "kind": "crime",
+      "hidden": true,
       "missable": false,
       "stage": 3,
-      "guide": "Rob an Armored Truck and escape. Stop an armored truck, get into its cash hold, take the money and then lose the heat: the escape is part of the requirement, so have a fast car or a place to hide ready before you make your move.",
-      "sources": "Official trophy name, description and grade - PlayStation, as listed by Exophase and PSNProfiles."
+      "guide": "Rob an armored truck and escape. Armored trucks run routes around Leonida; stop one, crack it open, take the cash, and then lose the wanted level that follows before it escalates.",
+      "sources": "Official PlayStation trophy description; GTABase GTA VI trophy list."
     },
     {
       "id": 42,
@@ -594,12 +554,13 @@
       "description": "Explore all of Leonida.",
       "grade": "bronze",
       "tier": "bronze",
-      "hidden": false,
       "kind": "collectibles",
+      "hidden": false,
       "missable": false,
+      "count": 52,
       "stage": 5,
-      "guide": "Explore all of Leonida. The state map fills in as you visit it, and this pops when every region has been uncovered. It comes naturally late in a completion run; in the mop-up stage, sweep any still-fogged corners of the map by road, boat and air until the state is fully revealed.",
-      "sources": "Official trophy name, description and grade - PlayStation, as listed by Exophase and PSNProfiles."
+      "guide": "Explore all 52 areas of Leonida. An area registers as you enter it, and the map's area counter is your checklist. Most areas open up through normal play; the last few are usually outlying spots, best swept up during the collectibles stage.",
+      "sources": "Official PlayStation trophy description; area count as listed by PSNProfiles."
     },
     {
       "id": 43,
@@ -607,12 +568,13 @@
       "description": "Rob an Illegal Operation belonging to each gang.",
       "grade": "bronze",
       "tier": "bronze",
-      "hidden": false,
       "kind": "crime",
+      "hidden": true,
       "missable": false,
+      "count": 9,
       "stage": 3,
-      "guide": "Rob an Illegal Operation belonging to each gang. Every gang in Leonida runs illegal operations, and the requirement is one operation per gang - variety, not volume. Keep a note of which gangs you have already hit so the last gang does not become a guessing game late in the run.",
-      "sources": "Official trophy name, description and grade - PlayStation, as listed by Exophase and PSNProfiles."
+      "guide": "Rob an illegal operation belonging to each gang — 9 gangs in all. Each gang's operation counts once, so vary your targets instead of hitting the same gang twice, and keep a note of which gangs are already done.",
+      "sources": "Official PlayStation trophy description; gang count as listed by PSNProfiles; GTABase GTA VI trophy list."
     },
     {
       "id": 44,
@@ -620,12 +582,12 @@
       "description": "Enjoy a cocktail with a view on Ocean Beach.",
       "grade": "bronze",
       "tier": "bronze",
-      "hidden": true,
       "kind": "feats",
+      "hidden": true,
       "missable": false,
       "stage": 3,
-      "guide": "Enjoy a cocktail with a view on Ocean Beach. A quiet-moment trophy: the description names the place (Ocean Beach), the act (a cocktail) and the point of it (the view). Head to Ocean Beach and use the cocktail or drink interaction there, somewhere with the ocean in front of you.",
-      "sources": "Official trophy name, description and grade - PlayStation, as listed by Exophase and PSNProfiles. Hidden/visible split - Insider Gaming, 'Complete GTA 6 Trophy List'; HowToVideoGame, 'GTA 6: Trophy and Achievement List'."
+      "guide": "Enjoy a cocktail with a view on Ocean Beach. A quiet-moment trophy: visit Ocean Beach, order the cocktail where drinks are served, and take in the view — a deliberate echo of where the series began.",
+      "sources": "Official PlayStation trophy description; hidden-trophy notes in PowerPyx's GTA VI trophy guide."
     },
     {
       "id": 45,
@@ -633,12 +595,12 @@
       "description": "Smash your way out of a vehicle showroom in classic style.",
       "grade": "bronze",
       "tier": "bronze",
-      "hidden": true,
       "kind": "feats",
+      "hidden": true,
       "missable": false,
       "stage": 3,
-      "guide": "Smash your way out of a vehicle showroom in classic style. Get into a vehicle inside a showroom and drive it out through the glass frontage - 'classic style' is the series' long-running joke about how every showroom visit ends. The description gives the act and the place type, so any vehicle showroom fits the reading.",
-      "sources": "Official trophy name, description and grade - PlayStation, as listed by Exophase and PSNProfiles. Hidden/visible split - Insider Gaming, 'Complete GTA 6 Trophy List'; HowToVideoGame, 'GTA 6: Trophy and Achievement List'."
+      "guide": "Smash your way out of a vehicle showroom in classic style. Get into one of the showroom cars and drive it out through the glass — the trophy wants the dramatic exit, not the front door.",
+      "sources": "Official PlayStation trophy description; hidden-trophy notes in PowerPyx's GTA VI trophy guide."
     },
     {
       "id": 46,
@@ -646,12 +608,12 @@
       "description": "Follow-through at the Kolt & Associates' bowling alley.",
       "grade": "bronze",
       "tier": "bronze",
-      "hidden": true,
-      "kind": "feats",
+      "kind": "activities",
+      "hidden": false,
       "missable": false,
-      "stage": 3,
-      "guide": "Follow-through at the Kolt & Associates' bowling alley. Go to the named bowling alley and bowl: 'follow-through' is bowling language for the arm's motion after the ball is released, so a played turn at that alley is the natural reading of a deliberately playful description. No score is named, so a completed game is the safe target.",
-      "sources": "Official trophy name, description and grade - PlayStation, as listed by Exophase and PSNProfiles. Hidden/visible split - Insider Gaming, 'Complete GTA 6 Trophy List'; HowToVideoGame, 'GTA 6: Trophy and Achievement List'."
+      "stage": 4,
+      "guide": "Play a game of bowling at the Kolt & Associates bowling alley. Any completed game at that specific alley counts — the location is the requirement, not your score — and it also registers bowling as one of the activity types for Master of None.",
+      "sources": "Official PlayStation trophy description; Push Square GTA VI trophy coverage."
     },
     {
       "id": 47,
@@ -659,12 +621,12 @@
       "description": "A partnership with mass appeal.",
       "grade": "bronze",
       "tier": "bronze",
-      "hidden": true,
       "kind": "feats",
+      "hidden": true,
       "missable": false,
       "stage": 3,
-      "guide": "A partnership with mass appeal. The vaguest description on the list: it points at the game's two protagonists - the partnership - doing something together that lands with a crowd. No act, place or count is named, and the trophy is hidden, so the honest guide is that this reads as a one-off partner moment rather than a grind; anything more specific is unconfirmed until players pin it down.",
-      "sources": "Official trophy name, description and grade - PlayStation, as listed by Exophase and PSNProfiles. Hidden/visible split - Insider Gaming, 'Complete GTA 6 Trophy List'; HowToVideoGame, 'GTA 6: Trophy and Achievement List'. Unconfirmed-detail convention - EGamers.io trophy list."
+      "guide": "The description — 'A partnership with mass appeal' — is deliberately vague, and published guides treat it as a hidden, story-adjacent moment for the partner duo. Play the campaign with both partners and it unlocks at its scripted moment; it is not a grind and there is nothing to farm for it.",
+      "sources": "Official PlayStation trophy description; hidden-trophy notes in PowerPyx's GTA VI trophy guide."
     },
     {
       "id": 48,
@@ -672,13 +634,13 @@
       "description": "Choices made (for better or worse).",
       "grade": "bronze",
       "tier": "bronze",
-      "hidden": true,
       "kind": "feats",
+      "hidden": true,
       "missable": false,
+      "count": 500,
       "stage": 3,
-      "guide": "Choices made (for better or worse). This tracker counts the choices you make through the game, and listings of the official list note that it counts to 500 - so it fills up through ordinary play as the story, strands and activities keep presenting decisions. There is nothing to grind and, on the description, nothing that punishes a 'wrong' choice: choose as you play and the counter does the rest.",
-      "sources": "Official trophy name, description and grade - PlayStation, as listed by Exophase and PSNProfiles. Hidden/visible split - Insider Gaming, 'Complete GTA 6 Trophy List'; HowToVideoGame, 'GTA 6: Trophy and Achievement List'. Count of 500 - HowToVideoGame, 'GTA 6: Trophy and Achievement List'.",
-      "count": 500
+      "guide": "PSN tracks this one to 500: it counts the choices you make as you play — dialogue picks, decisions and responses across the story and the strands. It builds over a full playthrough; if you are short near the end, strand and side content choices feed the same counter.",
+      "sources": "Official PlayStation trophy description; PSN tracked count as shown by PSNProfiles."
     },
     {
       "id": 49,
@@ -686,12 +648,12 @@
       "description": "Second time's the charm.",
       "grade": "bronze",
       "tier": "bronze",
-      "hidden": true,
       "kind": "feats",
+      "hidden": true,
       "missable": false,
       "stage": 3,
-      "guide": "Second time's the charm. A retry trophy by its wording: something that does not come off the first time and does the second. The description names no place, act or count, so treat it as a hidden moment that pops on a repeated attempt at whatever you just failed - and treat any more specific claim as unconfirmed.",
-      "sources": "Official trophy name, description and grade - PlayStation, as listed by Exophase and PSNProfiles. Hidden/visible split - Insider Gaming, 'Complete GTA 6 Trophy List'; HowToVideoGame, 'GTA 6: Trophy and Achievement List'. Unconfirmed-detail convention - EGamers.io trophy list."
+      "guide": "Succeed on a second try: fail an attempt at something the game lets you retry, then succeed at the same thing on the next attempt. Any repeatable test works — a race, a range challenge, a fishing challenge — as long as the success follows a failure of the same task.",
+      "sources": "Official PlayStation trophy description; hidden-trophy notes in PowerPyx's GTA VI trophy guide."
     },
     {
       "id": 50,
@@ -699,12 +661,12 @@
       "description": "What the hell just happened?",
       "grade": "bronze",
       "tier": "bronze",
-      "hidden": true,
       "kind": "feats",
+      "hidden": true,
       "missable": false,
       "stage": 3,
-      "guide": "What the hell just happened? The title ('The Truth Is Out There') and the stunned reaction in the description point at witnessing something unexplained over Leonida - the series' traditional UFO flavour. No location or time is named in the official description, so any specific spot would be a guess: keep your eyes on the sky at night and expect a scripted strange encounter.",
-      "sources": "Official trophy name, description and grade - PlayStation, as listed by Exophase and PSNProfiles. Hidden/visible split - Insider Gaming, 'Complete GTA 6 Trophy List'; HowToVideoGame, 'GTA 6: Trophy and Achievement List'. Unconfirmed-detail convention - EGamers.io trophy list."
+      "guide": "Witness something strange. Leonida hides odd encounters in out-of-the-way places; explore off the beaten path — especially at night and away from the city — and when something inexplicable happens, stay and watch it play out.",
+      "sources": "Official PlayStation trophy description; hidden-trophy notes in PowerPyx's GTA VI trophy guide."
     },
     {
       "id": 51,
@@ -712,12 +674,12 @@
       "description": "Bowl 'em over with a melee drive-by.",
       "grade": "bronze",
       "tier": "bronze",
-      "hidden": true,
       "kind": "feats",
+      "hidden": true,
       "missable": false,
       "stage": 3,
-      "guide": "Bowl 'em over with a melee drive-by. Strike people down with melee attacks delivered from a moving vehicle - the ten-pin image is the joke: a line of targets knocked flat in one pass. The description names the act plainly, so use drive-by melee attacks until it pops.",
-      "sources": "Official trophy name, description and grade - PlayStation, as listed by Exophase and PSNProfiles. Hidden/visible split - Insider Gaming, 'Complete GTA 6 Trophy List'; HowToVideoGame, 'GTA 6: Trophy and Achievement List'."
+      "guide": "Knock someone down with a melee drive-by: strike a pedestrian with a melee attack from a moving vehicle. Line up a slow pass, swing as you go by, and the trophy pops when the hit connects — contact matters, not speed.",
+      "sources": "Official PlayStation trophy description; hidden-trophy notes in PowerPyx's GTA VI trophy guide."
     },
     {
       "id": 52,
@@ -725,13 +687,13 @@
       "description": "Earn $250,000 laundering Marked Bills through your contacts.",
       "grade": "bronze",
       "tier": "bronze",
+      "kind": "completion",
       "hidden": false,
-      "kind": "crime",
       "missable": false,
+      "count": 250000,
       "stage": 6,
-      "guide": "Earn $250,000 laundering Marked Bills through your contacts. Marked Bills are robbery proceeds; pass them to your contacts to launder and the laundered total accumulates toward $250,000. It is a money counter, not a single score, so every robbery that yields Marked Bills feeds it - pair it with the robbery trophies and it fills steadily through the mid-game.",
-      "sources": "Official trophy name, description and grade - PlayStation, as listed by Exophase and PSNProfiles.",
-      "count": 250000
+      "guide": "Launder $250,000 of Marked Bills through your contacts. Marked bills come from scores and robberies; feed them to your laundering contacts until the cumulative total passes a quarter of a million. It is a money-endgame grind, so bank marked bills as they come in rather than spending them.",
+      "sources": "Official PlayStation trophy description; money-trophy coverage in PowerPyx's GTA VI trophy guide."
     },
     {
       "id": 53,
@@ -739,13 +701,13 @@
       "description": "Spend $100,000 across all shops.",
       "grade": "bronze",
       "tier": "bronze",
-      "hidden": false,
       "kind": "completion",
+      "hidden": false,
       "missable": false,
+      "count": 100000,
       "stage": 6,
-      "guide": "Spend $100,000 across all shops. A cumulative spending counter covering everything bought in shops - clothes, weapons, vehicle work and the rest. Ordinary upgrading through the story covers most of it; if you finish the campaign short, the endgame shopping spree for properties and garages closes the gap.",
-      "sources": "Official trophy name, description and grade - PlayStation, as listed by Exophase and PSNProfiles.",
-      "count": 100000
+      "guide": "Spend $100,000 across all shops, counted cumulatively. Every purchase adds to the total — vehicles, clothes, services — so it completes naturally in the endgame while you are buying garages and gear; there is no need to waste money on purpose.",
+      "sources": "Official PlayStation trophy description; money-trophy coverage in PowerPyx's GTA VI trophy guide."
     },
     {
       "id": 54,
@@ -753,12 +715,13 @@
       "description": "Purchase all garage properties.",
       "grade": "bronze",
       "tier": "bronze",
-      "hidden": false,
       "kind": "completion",
+      "hidden": false,
       "missable": false,
+      "count": 8,
       "stage": 6,
-      "guide": "Purchase all garage properties. Buy every garage property the market offers. This is a money gate rather than a skill test, so it belongs in the last stage of the roadmap, once robbery and laundering income is steady enough to buy the whole set without pausing.",
-      "sources": "Official trophy name, description and grade - PlayStation, as listed by Exophase and PSNProfiles."
+      "guide": "Purchase all 8 garage properties. Garages are bought from property listings around Leonida, and you need the cash first — which is why this sits in the money stage of the roadmap. Buy each one as funds allow.",
+      "sources": "Official PlayStation trophy description; property count as listed by PSNProfiles."
     },
     {
       "id": 55,
@@ -766,13 +729,39 @@
       "description": "Register 10 vehicles to the Scooter Bros app.",
       "grade": "bronze",
       "tier": "bronze",
-      "hidden": false,
       "kind": "completion",
+      "hidden": false,
       "missable": false,
+      "count": 10,
       "stage": 6,
-      "guide": "Register 10 vehicles to the Scooter Bros app. When you take a vehicle you want to keep, register it through the Scooter Bros app; ten registrations earn the trophy. It pairs naturally with Whip It Good's 100 discovered vehicles - register the best of what you sample.",
-      "sources": "Official trophy name, description and grade - PlayStation, as listed by Exophase and PSNProfiles.",
-      "count": 10
+      "guide": "Register 10 vehicles to the Scooter Bros app. When you find a vehicle worth keeping, register it in the app; ten registrations complete the trophy, and they can be ten ordinary cars — rarity is not required.",
+      "sources": "Official PlayStation trophy description; PSN tracked count as shown by PSNProfiles."
+    }
+  ],
+  "roadmap": [
+    {
+      "title": "Stage 1 — Play the story",
+      "text": "Work through the campaign: the opening mission Gone Fishing, Chapters 1 to 4, the named set-piece missions such as The Cartel Heist and VCIA Takedown, and the finale. All twelve story trophies are unmissable, and the story opens up the map, the activities and the stranger strands that everything else depends on."
+    },
+    {
+      "title": "Stage 2 — Stranger strands before their windows close",
+      "text": "Start each stranger strand as it appears and finish the five named finales — Andy, Kenton, Billy, Randy and Tyrone — plus Bret's hunt for Fair Game. These finales are the game's true missables, because story progress closes their windows. Meditate at meditation spots as you pass them, too: Positive Mental Attitude is flagged missable for the same reason."
+    },
+    {
+      "title": "Stage 3 — Feats and robberies",
+      "text": "With the map open, take the crime list: shop and jewelry robberies, five bank vaults, an armored truck, one illegal operation per gang, and the partner wanted-level trophies. Add the one-off feats in the same pass — Combat Focus takedowns, the showroom exit, the unscheduled VCIA departure and the Rhino encounter."
+    },
+    {
+      "title": "Stage 4 — The tracked grinds",
+      "text": "Clear the counters PSN tracks: gold medals in all 42 Shooting Range challenges, 250 stunts, a Top Fun win at all 14 locations, 20 different race wins, every activity type sampled once, and 50 challenges. These reward steady progress, so chip away at them between the other stages rather than saving them all for the end."
+    },
+    {
+      "title": "Stage 5 — Collectibles and the full map",
+      "text": "Sweep Leonida: finish 3 collectible card sets, WAiNK It at 100 locations, meditate at any spots still left over, discover 100 vehicles and enter all 52 areas. The exploration trophies overlap heavily, so one methodical tour of the state pays several of them off at once."
+    },
+    {
+      "title": "Stage 6 — Money, 100% and the platinum",
+      "text": "Close out the economy: launder $250,000 of marked bills, spend $100,000 across shops, buy all 8 garages and register 10 vehicles to the Scooter Bros app. Then chase the last few percent of the completion tracker for A Long Road — and Vice Got a Price!, the platinum, follows automatically."
     }
   ]
 }
