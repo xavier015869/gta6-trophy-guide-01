@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Leonida Legend — GTA VI Trophy Guide &amp; Tracker</title>
+<meta name="description" content="Offline guide and tracker for all 55 Grand Theft Auto VI PlayStation 5 trophies: sourced guides, a six-stage platinum roadmap, missable warnings and a progress tracker that saves in your browser.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="header-inner">
+    <div class="brand">
+      <div class="brand-mark" aria-hidden="true">LL</div>
+      <div>
+        <h1>Leonida Legend</h1>
+        <p class="tagline">The GTA VI trophy guide &amp; tracker — all 55 PlayStation 5 trophies, every guide sourced, every missable flagged.</p>
+      </div>
+    </div>
+    <div class="progress-panel" aria-label="Your progress">
+      <div class="progress-head">
+        <span id="progress-count">0 of 55 earned</span>
+        <span id="progress-percent">0%</span>
+      </div>
+      <div class="progress-track"><div id="overall-bar" class="progress-bar"></div></div>
+      <div id="grade-summary" class="grade-summary"></div>
+    </div>
+  </div>
+  <nav class="tabs" aria-label="Views">
+    <button id="tab-trophies" class="tab active" type="button">Trophies</button>
+    <button id="tab-roadmap" class="tab" type="button">Platinum Roadmap</button>
+    <button id="tab-missables" class="tab tab-alert" type="button">Missables <span id="missable-count" class="tab-badge">6</span></button>
+  </nav>
+</header>
+
+<div id="missable-strip" class="missable-strip" role="alert"></div>
+
+<section class="controls" aria-label="Filters and tracker tools">
+  <div class="controls-row">
+    <label class="control grow">Search
+      <input id="search" type="search" placeholder="Search name, description or guide…" autocomplete="off">
+    </label>
+    <label class="control">Grade
+      <select id="filter-grade">
+        <option value="all">All grades</option>
+        <option value="platinum">Platinum</option>
+        <option value="gold">Gold</option>
+        <option value="silver">Silver</option>
+        <option value="bronze">Bronze</option>
+      </select>
+    </label>
+    <label class="control">Kind
+      <select id="filter-kind">
+        <option value="all">All kinds</option>
+        <option value="story">Story</option>
+        <option value="side">Side strands</option>
+        <option value="activities">Activities</option>
+        <option value="collectibles">Collectibles</option>
+        <option value="crime">Crime</option>
+        <option value="feats">Feats</option>
+        <option value="completion">Completion</option>
+      </select>
+    </label>
+    <label class="control">Roadmap stage
+      <select id="filter-stage">
+        <option value="all">All stages</option>
+      </select>
+    </label>
+  </div>
+  <div class="controls-row">
+    <label class="toggle"><input id="filter-missable" type="checkbox"> Missable only</label>
+    <label class="toggle"><input id="filter-unearned" type="checkbox"> Not yet earned</label>
+    <label class="toggle" title="Mask the names and descriptions of hidden trophies until you earn them">
+      <input id="spoiler-toggle" type="checkbox" checked> Spoiler shield (mask hidden trophies)
+    </label>
+    <span class="controls-spacer"></span>
+    <button id="btn-export" class="tool-btn" type="button">Export progress</button>
+    <label class="tool-btn file-btn">Import progress <input id="import-file" type="file" accept="application/json,.json" hidden></label>
+    <button id="btn-reset" class="tool-btn danger" type="button">Reset</button>
+  </div>
+  <p id="result-count" class="result-count" aria-live="polite"></p>
+</section>
+
+<main>
+  <section id="view-trophies" class="view">
+    <div id="grid" class="grid"></div>
+    <p id="empty-state" class="empty-state" hidden>No trophies match those filters. Loosen a filter or clear the search.</p>
+  </section>
+
+  <section id="view-roadmap" class="view" hidden>
+    <div class="roadmap-intro">
+      <h2>The road to the platinum</h2>
+      <p>Six stages, in the order a clean run should take them. The order is built from the official descriptions: the story first, the missable stranger chains before the endgame closes their windows, the counters and collectibles as parallel grinds, and the money and 100% checklist last. Your progress in each stage fills in as you tick trophies off.</p>
+    </div>
+    <div id="roadmap-list"></div>
+  </section>
+</main>
+
+<aside id="detail" class="detail" hidden aria-label="Trophy detail">
+  <button id="detail-close" class="detail-close" type="button" aria-label="Close detail">×</button>
+  <div id="detail-content"></div>
+</aside>
+<div id="detail-scrim" class="detail-scrim" hidden></div>
+
+<footer class="site-footer">
+  <p>Leonida Legend is an unofficial, offline fan guide. Trophy names, descriptions and grades are as PlayStation publishes them; every guide is written for this app and cites its sources beside the trophy. Progress is stored only in your browser (localStorage) — export it to keep a backup. Not affiliated with Rockstar Games or PlayStation.</p>
+</footer>
+
+<script type="module" src="app.js"></script>
+</body>
+</html>
