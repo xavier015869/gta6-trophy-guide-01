@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Leonida Legend — GTA VI Trophy Guide &amp; Tracker</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="masthead">
+  <div class="masthead-text">
+    <h1>Leonida Legend</h1>
+    <p class="tagline">The Grand Theft Auto VI trophy guide &amp; tracker — all 55 PlayStation 5 trophies, a platinum roadmap, the missables flagged, and a checklist that remembers.</p>
+  </div>
+  <div class="progress-panel" aria-live="polite">
+    <p id="progress-summary" class="progress-summary">Loading the trophy list…</p>
+    <div class="progress-bar"><div id="progress-fill" class="progress-fill"></div></div>
+    <p id="progress-grades" class="progress-grades"></p>
+  </div>
+</header>
+
+<section id="roadmap" class="roadmap" aria-label="Roadmap to the platinum">
+  <h2>Roadmap to the platinum</h2>
+  <p class="roadmap-note">Built from the official trophy descriptions, in the order that wastes nothing: story first (it cannot be missed), the stranger strands before story progress closes their windows, then the tracked grinds, the collectible sweep, and the money-and-completion endgame. <strong>Missable watch:</strong> the five stranger-chain finales and Positive Mental Attitude are flagged on their cards below.</p>
+  <ol id="roadmap-steps" class="roadmap-steps"></ol>
+</section>
+
+<section class="controls" aria-label="Tracker controls">
+  <div class="control-row">
+    <label class="search">Search <input id="search" type="search" placeholder="Trophy name…" autocomplete="off"></label>
+    <label>Grade
+      <select id="grade-filter">
+        <option value="all">All grades</option>
+        <option value="platinum">Platinum</option>
+        <option value="gold">Gold</option>
+        <option value="silver">Silver</option>
+        <option value="bronze">Bronze</option>
+      </select>
+    </label>
+    <label class="check"><input id="spoiler-toggle" type="checkbox"> Hide spoilers (mask hidden trophies until earned)</label>
+    <label class="check"><input id="earned-toggle" type="checkbox"> Hide earned</label>
+  </div>
+  <div id="kind-filters" class="kind-filters" role="group" aria-label="Filter by kind"></div>
+  <div class="control-row">
+    <button id="export-button" type="button">Export progress (JSON)</button>
+    <label class="import-button">Import progress <input id="import-input" type="file" accept="application/json,.json"></label>
+    <button id="reset-button" type="button">Reset tracker</button>
+    <p id="status-line" class="status-line" aria-live="polite"></p>
+  </div>
+</section>
+
+<main id="trophy-list" class="trophy-list"></main>
+<p id="empty-note" class="empty-note" hidden></p>
+
+<footer class="colophon">
+  <p>Guides are written for this entry in our own words. Every card names its sources: the official trophy names, descriptions and grades are PlayStation's, as listed by Exophase and PSNProfiles; the rest is credited card by card. This app works fully offline and stores progress only in your browser.</p>
+</footer>
+
+<script type="module" src="app.js"></script>
+</body>
+</html>
